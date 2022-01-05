@@ -1,3 +1,3 @@
 # SG-TCN:Semantic Guidance for temporal action segmentation
 
-# Our codes will be released upon publish of our paper!
+Our code will be released after the paper is published!
